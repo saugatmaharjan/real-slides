@@ -33,5 +33,12 @@
 		"vite": "^4.3.0",
 		"vitest": "^0.25.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"mdsvex": "^0.10.6",
+		"qrcode": "^1.5.3",
+		"run": "^1.4.0",
+		"sqlite": "^4.2.1",
+		"sqlite3": "^5.1.6"
+	}
 }
